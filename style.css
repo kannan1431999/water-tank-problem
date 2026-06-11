@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 20px auto;
+}
+
+td {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+}
+
+.block {
+  background: yellow;
+}
+
+.water {
+  background: deepskyblue;
+}
+
+.empty {
+  background: white;
+}
